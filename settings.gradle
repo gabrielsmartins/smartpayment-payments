@@ -1,4 +1,4 @@
-rootProject.name = 'smart-payment-payments'
+rootProject.name = 'smartpayment-payments'
 
 include ':application'
 include ':common'
